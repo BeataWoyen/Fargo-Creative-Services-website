@@ -184,8 +184,9 @@ header nav ul li a:hover, a:active, a:focus {
 	background: #efebe6;
 	margin-top: 5%;
 	/*height: 425px;*/
-	padding: 5%;
+	padding: 3%;
 	border-bottom: 2px solid #c8c1ba;
+	border-top: 10px solid #d38770;
 }
 
 .social-media {
